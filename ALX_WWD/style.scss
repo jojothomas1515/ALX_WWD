@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+}
+
+main {
+        .sidebar{
+                .twitter_logo, .side_icon{
+                        width: 50px;
+
+                }
+
+        }
+}
